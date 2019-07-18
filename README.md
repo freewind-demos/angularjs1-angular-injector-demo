@@ -1,13 +1,14 @@
-AngularJS1 Hello World Demo
+AngularJS1 Angular Injector Demo
 ===========================
 
-[AngularJS1](https://angularjs.org/) is not dead yet.
+使用angularjs的Injector，我们可以得到需要的angular对象
 
 ```
 npm install
-open index.html
+npm run demo
 ```
 
-Type your name in the text field, and see the changes.
+References
+----------
 
-![demo](./images/demo.jpg)
+- https://docs.angularjs.org/api/ng/function/angular.injector
