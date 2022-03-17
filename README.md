@@ -5,7 +5,7 @@ AngularJS1 Angular Injector Demo
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 References
